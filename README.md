@@ -93,8 +93,8 @@ Social sharing of itineraries
 📌Screenshot's 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d9baaad3-f144-4179-a1f1-7e4c9db70364" />
 
-📄 License
-This project is licensed under the MIT License.
+📄 Screenshots
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d9baaad3-f144-4179-a1f1-7e4c9db70364" />
 
 🤝 Contributing
 Contributions are welcome!
